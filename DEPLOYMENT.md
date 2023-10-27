@@ -1,4 +1,4 @@
-# Device-Agnostic Design Course Project I - 12563757-9152-41de-aa81-953971bc4df1
+# Device-Agnostic Design Course Project I
 
 Write the URL where your application is deployed below.
 
